@@ -3,7 +3,6 @@
         "builder": "Dockerfile"
     },
     "deploy": {
-        "startCommand": "chroma serve",
         "restartPolicyType": "ON_FAILURE"
     },
     "services": [
