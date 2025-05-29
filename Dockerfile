@@ -79,7 +79,7 @@
 
 
 # Dockerfile (경량 버전)
-FROM chromadb/chroma:1.0.11
+FROM chromadb/chroma:1.0.10
 
 ENV CHROMA_HOST=0.0.0.0
 ENV CHROMA_PORT=8000
