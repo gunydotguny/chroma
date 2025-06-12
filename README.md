@@ -1,3 +1,26 @@
+# Custom Chroma (based on chroma-core/chroma)
+
+이 프로젝트는 [chroma-core/chroma](https://github.com/chroma-core/chroma)를 기반으로,
+Dr.LIKE에 맞게 일부 커스터마이징한 버전입니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://trychroma.com"><img src="https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png" alt="Chroma logo"></a>
 </p>
